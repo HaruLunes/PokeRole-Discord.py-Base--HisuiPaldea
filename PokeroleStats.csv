@@ -1217,3 +1217,26 @@ No.,Name,Type 1,Type 2,HP,Strength,Max Strength,Dexterity,Max Dexterity,Vitality
 #D196,Delta Registeel,Fire,,4,5,5,4,4,8,8,5,5,8,8,Clear Body,,Light Metal,,,,Master,N
 #D197,Delta Meloetta,Dark,Fairy,5,5,5,5,5,5,5,7,7,7,7,Serene Grace,,,,,Yes,Master,N
 #D198,Delta Hoopa,Flying,,4,6,6,5,5,4,4,8,8,7,7,Magician,,,,,Yes,Pro,N
+
+#724H,Hisuian Decidueye,Grass,Fighting,5,4,8,1,3,2,5,3,7,3,6,ability,ability,ability,,,,Ace,
+#157H,Hisuian Typhlosion,Fire,Ghost,5,2,4,3,6,2,4,4,8,2,4,ab,ab,ab,,,,Ace,
+#503H,Hisuian Samurott,Water,Dark,5,4,8,2,5,2,4,3,7,2,4,ab,ab,ab,,,,Ace,
+#891,Wyrdeer,Normal,Psychic,5,3,7,2,4,2,5,3,7,3,6,ab,ab,ab,,,,Ace,
+#892,Kleavor,Bug,Rock,4,4,9,2,5,3,7,1,2,2,4,ab,ab,ab,,,,Ace,
+#211H,Hisuian Qwilfish,Dark,Poison,3,3,6,2,5,2,5,1,3,1,3,ab,ab,ab,ab,Yes,,Amateur,
+#893,Overqwil,Dark,Poison,4,4,8,2,5,2,5,2,4,2,4,ab,ab,ab,ab,,,Ace,
+#549H,Hisuian Lilligant,Grass,Fighting,4,2,7,3,7,2,5,1,2,2,5,ab,ab,ab,ab,,,Amateur,
+#894,Ursaluna,Normal,Ground,8,4,9,2,4,3,7,2,4,2,5,ab,ab,ab,ab,,,Pro,
+#705H,Hisuian Sliggoo,Dragon,Steel,3,2,5,2,3,2,5,2,5,3,7,ab,ab,ab,ab,Yes,,Beginner,
+#706H,Hisuian Goodra,Dragon,Steel,5,2,5,2,5,2,5,3,6,5,10,ab,ab,ab,ab,,,Amateur,
+#058H,Hisuian Growlithe,Fire,Rock,3,3,6,1,3,1,2,2,5,1,3,ab,ab,ab,ab,Yes,,Beginner,
+#059H,Hisuian Arcanine,Fire,Rock,5,4,8,2,5,2,4,3,6,2,4,ab,ab,ab,ab,,,Ace,
+#895,Basculegion,Water,Ghost,7,4,8,2,5,2,4,2,5,2,4,ab,ab,ab,ab,,,Ace,
+#100H,Hisuian Voltorb,Electric,Grass,2,1,2,3,6,1,3,2,4,2,4,ab,ab,ab,ab,Yes,,Beginner,
+#101H,Hisuian Electrode,Electric,Grass,3,1,3,4,9,2,4,2,5,2,5,ab,ab,ab,ab,,,Amateur,
+#215H,Hisuian Sneasel,Poison,Fighting,2,3,6,3,7,1,3,12,2,2,4,ab,ab,ab,ab,Yes,,Amateur,
+#896,Sneasler,Poison,Fighting,4,4,9,4,8,1,3,1,2,2,5,ab,ab,ab,ab,,,Ace,
+#713H,Hisuian Avalugg,Ice,Rock,5,4,9,1,2,5,10,1,2,1,2,ab,ab,ab,ab,,,Ace,
+#570H,Hisuian Zorua,Normal,Ghost,2,2,4,2,5,1,2,2,5,1,2,ab,ab,ab,ab,Yes,,Beginner,
+#571H,Hisuian Zoruark,Normal,Ghost,3,3,6,3,7,1,3,4,9,1,3,ab,ab,ab,ab,,,Amateur,
+#628H,Hisuian Braviary,Psychic,Flying,6,2,5,1,3,2,4,4,8,2,4,ab,ab,ab,ab,,,Ace,
