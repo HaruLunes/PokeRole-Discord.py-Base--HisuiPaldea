@@ -729,3 +729,19 @@ Help Another,typeless,SUPPORT,0,,,,VARIES,One Ally,"Roll your Accuracy as if it 
 Cover An Ally,typeless,SUPPORT,0,,,,,One Ally,The user will provide cover to the target from Ranged attacks and is more likely to be hit by close-range attacks. The level of Cover the user provides will depend on its size.,
 Stabilize An Ally,typeless,SUPPORT,0,,,CLEVER,MEDICINE,One Ally,The User applies CPR and/or first aid to an unconcious Ally. Target won't receive Lethal Damage each hour anymore. Each Lethal Damage on the Ally reduces 1 Success to the Accuracy Pool of this Maneuver.,
 Run Away,typeless,SUPPORT,0,,,DEXTERITY,ATHLETIC,User,The User runs away from the battlefield. This effect ends the battle. Foes might try to prevent this by rolling: Dexterity + Athletic and scoring the same or more successes. If the user is Blocked this Maneuver fails.,
+Moutain Gale,Ice,Physical,4,Strength,,Dexterity,Brawl,Foe,-1 Accuracy. Roll 2 Chance Dice to Flinch the foe.,Placeholder
+Ceaseless Edge,Dark,Physical,2,Strength,,Dexterity,Brawl,Foe,Cutting Move. Roll 3 Dice of Damage against the foe at the end of each Round. Lasts 2 Rounds.,Placeholder
+Stone Axe,Rock,Physical,2,Strength,,Dexterity,Brawl,Foe,Cutting Move. Roll 3 Dice of Damage against the foe at the end of each Round. Lasts 2 Rounds.,Placeholder
+Victory Dance,Fighting,Support,0,,Beauty,Perform,User,Increse the User's Strength, Dexterity and Defense.,Placeholder
+Esper-Wing,Psychic,Special,3,Special,,Dexterity,Channel,Foe,High Crit. Increase the User's Initiative Roll by 2 next Round.,Placeholder
+Triple Arrow,Fighting,Physical,3,Strength,,Dexterity,Brawl,Foe,High Crit. Roll 3 Chance Dice to reduce the Target's Defense. Roll 1 Chance Die to inflict Flinch.,Placeholder
+Bitter Malice,Ghost,Special,2,Special,,Dexterity,Channel,Foe,Decrease the Target's Strength. Base Power is increased by 2 if the Target suffers from a Status Condition.,Placeholder
+Psyshield Bash,Psychic,Physical,3,Strength,,Dexterity,Brawl,Foe,-1 Accuracy. Increase the User's Defense.,Placeholder
+Shelter,Steel,Support,0,,,Vitality,Brawl,User,Increase the User's Defense by 2.,Placeholder
+Raging Fury,Fire,Physical,5,Strength,,Strength,Brawl,Random Foe,Rampage.,Placeholder
+Wave Crash,Water,Physical,5,Strength,,Strength,Brawl,Foe,Recoil.,Placeholder
+Chloroblast,Grass,Special,6,Special,,Special,Channel,Area,Recoil. -2 Accuracy.,Placeholder
+Headlong Rush,Ground,Physical,4,Strength,,Dexterity,Brawl,Foe,The User will Take 1 additional Damage from every Source until the end of his next Turn.,Placeholder
+Infernal Parade,Ghost,Special,2,Special,,Dexterity,Channel,Foe,Roll 2 Chance Dice to inflict Burn. Base Power is increased by 2 if the Target suffers from a Status Condition.,Placeholder
+Barb Barrage,poison,Physical,2,Strength,,Dexterity,Brawl,Foe,Roll 3 Chance Dice to inflict Poison. Base Power is increased by 2 if the Target is Poisoned.,Placeholder
+Dire Claw,Poison,Physical,3,Strength,,Dexterity,Brawl,Foe,Roll 1 Chance Dice to inflict Poison 1 to inflict Paralysis and 1 to inflict Sleep. Each use of this move can only inflict one Status Condition.,A calculated and merciless attack made with the user's claws that aims to debilitate the target in one way or another.
