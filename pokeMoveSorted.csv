@@ -382,7 +382,7 @@ Baton Pass,normal,SUPPORT,0,,,SPECIAL,CHANNEL,User,Switcher Move. User switches 
 Belly Drum,normal,SUPPORT,0,,,TOUGH,PERFORM,User,User deals Damage to itself equal to Half of its total HP rounded down. Increase User's Strength by 3.,The Pokémon Roars a war cry while hitting its Belly.
 Bestow,normal,SUPPORT,0,,,COOL,ETIQUETTE,Foe,"If target is not holding an Item, the User gives its own.","The Pokemon respectfully offers an item, the target will take it and keep it to be polite."
 Bide,normal,SUPPORT,0,,,VITALITY,BRAWL,Self,"The User increses the likelyhood of getting targeted and records all damage taken during this round. At the end of the round, perform Rebounding Assault. Priority 1.",The user endures the hit then unleashes an attack even greater.
-Rebounding Assault,normal,PHYSICAL,X,,,DEXTERITY,BRAWL,Foe,"This move's Power is equal to the amount of damage taken this round (Maximum 10)",The user endures the hit then unleashes an attack even greater.
+Rebounding Assault,normal,PHYSICAL,X,STRENGTH,,DEXTERITY,BRAWL,Foe,"This move's Power is equal to the amount of damage taken this round (Maximum 10)",The user endures the hit then unleashes an attack even greater.
 Bind,normal,PHYSICAL,1,STRENGTH,,DEXTERITY,BRAWL,Foe,Block. Deal 2 dice of damage at the end of each Round. Lasts 4 Rounds. -2 Accuracy.,"The Pokémon uses its body to bind the foe, restraining and squeezing it."
 Block,normal,SUPPORT,0,,,DEXTERITY,BRAWL,Foe,Blocks.,"The user moves swiftly, blocking the escape routes of the foe."
 Body Slam,normal,PHYSICAL,3,STRENGTH,,DEXTERITY,BRAWL,Foe,Roll 3 Chance Dice to Paralyze the foe.,"The user charges against the foe using its body to knock it down, leaving the target stunned."
